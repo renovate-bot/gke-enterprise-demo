@@ -154,7 +154,7 @@ go_repository(
 go_repository(
     name = "com_github_tidwall_match",
     importpath = "github.com/tidwall/match",
-    commit = "1731857f09b1f38450e2c12409748407822dc6be",
+    commit = "ec90e00ea409c4ce4a8ffb0827280810d17c96c8",
 )
 
 go_repository(
