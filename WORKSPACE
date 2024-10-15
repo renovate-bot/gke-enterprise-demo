@@ -160,7 +160,7 @@ go_repository(
 go_repository(
     name = "com_github_googleapis_gax_go",
     importpath = "github.com/googleapis/gax-go",
-    commit = "1ef592c90f479e3ab30c6c2312e20e13881b7ea6",
+    commit = "183032f13d5052bf529de0d103ad722a5bda5835",
 )
 
 go_repository(
